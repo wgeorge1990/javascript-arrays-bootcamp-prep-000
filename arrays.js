@@ -25,7 +25,7 @@ return array[index]
 
 function destructivelyRemoveElementFromBeginningOfArray (array){
 array.shift()
-  array
+array
 }
 
 function removeElementFromBeginningOfArray (array){
